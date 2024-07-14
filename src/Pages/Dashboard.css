@@ -1,0 +1,7 @@
+.pagination button{
+    margin: 40px 5px;
+ }
+ 
+ .pagination .selected {
+     background-color: #FF9900;
+ }
